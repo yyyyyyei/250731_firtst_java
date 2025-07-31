@@ -11,5 +11,6 @@ public class helloworld {
         System.out.println("hello world!");
         System.out.println("hello world!");
         // 한 줄 삭제 : Ctrl + Y
+        System.out.println("듀듀");
     }
 }
